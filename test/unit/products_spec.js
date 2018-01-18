@@ -4,7 +4,7 @@ import sinon from 'sinon';
 describe('Controllers: Products', () => {
 
     const defaultProduct = [{
-        name: 'Default Product',
+        name: 'Default product',
         description: 'product description',
         price: 100
     }];
